@@ -1,2 +1,2 @@
 # NJUPT_CPP_Experiment
-Help NJUPT students to solve their problems on CPP lessons.
+Help NJUPT students to solve their problems in CPP lessons.
