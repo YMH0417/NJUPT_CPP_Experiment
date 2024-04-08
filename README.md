@@ -1,2 +1,3 @@
 # NJUPT_CPP_Experiment
-I love Jiagao Wu!
+Help NJUPT students to solve their problems on CPP leasons.
+by B23041011 Minghong Yu
