@@ -45,5 +45,11 @@
     <ClCompile Include="exp2_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exp3_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exp3_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
